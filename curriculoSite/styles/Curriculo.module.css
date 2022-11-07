@@ -1,0 +1,121 @@
+.main {
+  width: 21cm;
+  min-height: 29.7cm;
+  padding: 30px;
+  margin: 2cm auto;
+  border: 1px #D3D3D3 solid;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.contatoInfo h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 0px;
+  display: inline-block;
+  margin-right: 10px;
+  
+}
+
+.contatoInfo {
+  background-color: #f7f8ff ;
+}
+.contatoInfo ul li a{
+  color: rgb(105, 104, 104);
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+.contatoInfo ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.iconeInfo{
+  margin-right: 10px;
+  color: #f1cb59;
+  font-size: 20px;
+}
+
+.colunaEsquerda{
+  background-color: #f7f8ff;
+}
+
+#sobrenome{
+  color: #f1cb59;
+}
+
+.conteudo h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #f1cb59;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.conteudo h5{
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.cardContent p{
+  /* remover espacamento dos textos */
+  margin: 0;
+}
+
+.projetos{
+  margin-left: 30px;
+}
+.projetos h6{
+  margin-top: 10px;
+  color: #f1cb59;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.linhaPontilhada{
+  border-bottom: 2px dashed #f1cb59;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#buttonDownload{
+  position: absolute;
+  top: 10px;
+  right: 260px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  /* acompanhar o scrool do mouse */
+  
+  z-index: 1;
+
+  
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
+
+
+

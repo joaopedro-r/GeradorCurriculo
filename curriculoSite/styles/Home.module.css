@@ -1,0 +1,38 @@
+#corpoPrincipal{
+    background-color: rgb(66, 3, 82);
+}
+
+.central{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(66, 3, 82);
+    color: #fff;
+}
+
+#botaoCriar{
+    margin-top: 30px;
+}
+
+.paragrafo{
+    margin: 0px;
+}
+
+.formulario{
+    margin-top: 20px;
+}
+
+.spinnerCenter{
+    /*colocar no centro da tela */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+}
