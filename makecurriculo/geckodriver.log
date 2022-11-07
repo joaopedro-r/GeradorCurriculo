@@ -1,0 +1,586 @@
+1666913245768	geckodriver	INFO	Listening on 127.0.0.1:58719
+1666913248809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile0CrjwC"
+1666913314528	geckodriver	INFO	Listening on 127.0.0.1:59062
+1666913317556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileqmIqnI"
+*** You are running in headless mode.
+1666913318310	Marionette	INFO	Marionette enabled
+1666913318319	Marionette	INFO	Listening on port 59076
+Read port: 59076
+WebDriver BiDi listening on ws://127.0.0.1:59063
+1666913318483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileqmIqnI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59063/devtools/browser/8f21732e-4469-4a26-893b-c832a3615f34
+1666913367199	geckodriver	INFO	Listening on 127.0.0.1:59393
+1666913370204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilexWp7q8"
+*** You are running in headless mode.
+1666913370973	Marionette	INFO	Marionette enabled
+1666913370978	Marionette	INFO	Listening on port 59406
+Read port: 59406
+WebDriver BiDi listening on ws://127.0.0.1:59394
+1666913371210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilexWp7q8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59394/devtools/browser/c221fbd4-c544-4b52-aef8-5449a2519889
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666913396719	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666913410598	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666913453223	Marionette	INFO	Stopped listening on port 59406
+1666913905234	geckodriver	INFO	Listening on 127.0.0.1:55878
+1666913908257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilePem0BU"
+*** You are running in headless mode.
+1666913908989	Marionette	INFO	Marionette enabled
+1666913908994	Marionette	INFO	Listening on port 55888
+Read port: 55888
+WebDriver BiDi listening on ws://127.0.0.1:55879
+1666913909171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilePem0BU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55879/devtools/browser/5b748639-6eb7-488a-85e9-dd3e08888709
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666913928863	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666913941020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666913980207	Marionette	INFO	Stopped listening on port 55888
+[Parent 82680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666915879878	geckodriver	INFO	Listening on 127.0.0.1:63140
+1666915882903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileM3q0TT"
+*** You are running in headless mode.
+1666915883808	Marionette	INFO	Marionette enabled
+1666915883817	Marionette	INFO	Listening on port 63150
+Read port: 63150
+WebDriver BiDi listening on ws://127.0.0.1:63141
+1666915884016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileM3q0TT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63141/devtools/browser/ef624ff5-09d9-4108-842d-95238540c3cb
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666915904493	geckodriver	INFO	Listening on 127.0.0.1:61308
+1666915907520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileTLUced"
+*** You are running in headless mode.
+1666915908227	Marionette	INFO	Marionette enabled
+1666915908236	Marionette	INFO	Listening on port 61351
+Read port: 61351
+WebDriver BiDi listening on ws://127.0.0.1:61309
+1666915908419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileTLUced\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61309/devtools/browser/3086edd5-57be-4489-a6e3-d23f733fb87c
+1666916010344	geckodriver	INFO	Listening on 127.0.0.1:61735
+1666916013361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileOg4zTJ"
+*** You are running in headless mode.
+1666916014422	Marionette	INFO	Marionette enabled
+1666916014430	Marionette	INFO	Listening on port 61747
+Read port: 61747
+WebDriver BiDi listening on ws://127.0.0.1:61736
+1666916014658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileOg4zTJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61736/devtools/browser/e8a23ccf-5e55-4fe9-a8e2-f6e17db345cb
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666916027523	geckodriver	INFO	Listening on 127.0.0.1:61870
+1666916030567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilemLzOhn"
+*** You are running in headless mode.
+1666916031683	Marionette	INFO	Marionette enabled
+1666916031694	Marionette	INFO	Listening on port 61917
+Read port: 61917
+WebDriver BiDi listening on ws://127.0.0.1:61871
+1666916032005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilemLzOhn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61871/devtools/browser/f75d5e07-de92-4046-98d3-dd19c338bd80
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666916101428	geckodriver	INFO	Listening on 127.0.0.1:62377
+1666916104421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileTqJil4"
+*** You are running in headless mode.
+1666916106914	Marionette	INFO	Marionette enabled
+1666916106929	Marionette	INFO	Listening on port 62388
+Read port: 62388
+WebDriver BiDi listening on ws://127.0.0.1:62378
+1666916107339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileTqJil4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62378/devtools/browser/d3be8932-6737-4b4d-98fc-a108308cf6d6
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666916136537	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666916147784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666916151882	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666916204624	Marionette	INFO	Stopped listening on port 62388
+1666919135424	geckodriver	INFO	Listening on 127.0.0.1:59673
+1666919138032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofiletnq7vW"
+*** You are running in headless mode.
+1666919140640	Marionette	INFO	Marionette enabled
+1666919140650	Marionette	INFO	Listening on port 59687
+Read port: 59687
+WebDriver BiDi listening on ws://127.0.0.1:59674
+1666919141072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofiletnq7vW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59674/devtools/browser/1cfae1dc-8210-46e9-925a-6050365a9aec
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666919251124	geckodriver	INFO	Listening on 127.0.0.1:60177
+1666919254380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileCrDASi"
+*** You are running in headless mode.
+1666919255600	Marionette	INFO	Marionette enabled
+1666919255618	Marionette	INFO	Listening on port 60193
+Read port: 60193
+WebDriver BiDi listening on ws://127.0.0.1:60178
+1666919256184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileCrDASi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60178/devtools/browser/d35c33f9-473c-4688-b500-e94a75d09a2b
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666919318863	geckodriver	INFO	Listening on 127.0.0.1:61156
+1666919321816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileagBsUd"
+*** You are running in headless mode.
+1666919322898	Marionette	INFO	Marionette enabled
+1666919322906	Marionette	INFO	Listening on port 61172
+Read port: 61172
+WebDriver BiDi listening on ws://127.0.0.1:61157
+1666919323132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileagBsUd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61157/devtools/browser/bbfdb7fe-71d8-477a-a8f0-a3a2b640fb01
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+1666919355197	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666919366572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666919373631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666919424142	Marionette	INFO	Stopped listening on port 61172
+1666919473330	geckodriver	INFO	Listening on 127.0.0.1:51847
+1666919476326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileLaCr8m"
+*** You are running in headless mode.
+1666919477124	Marionette	INFO	Marionette enabled
+1666919477130	Marionette	INFO	Listening on port 51861
+Read port: 51861
+WebDriver BiDi listening on ws://127.0.0.1:51848
+1666919477371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileLaCr8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51848/devtools/browser/7aa00f17-60cc-4869-831f-6f570bed7d19
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666919567081	geckodriver	INFO	Listening on 127.0.0.1:52213
+1666919570102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileQABpiW"
+*** You are running in headless mode.
+1666919571025	Marionette	INFO	Marionette enabled
+1666919571034	Marionette	INFO	Listening on port 52223
+Read port: 52223
+WebDriver BiDi listening on ws://127.0.0.1:52214
+1666919571249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileQABpiW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52214/devtools/browser/17800087-14d9-4120-b426-0704a427fd2c
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+1666919591850	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666919603919	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666919644519	Marionette	INFO	Stopped listening on port 52223
+1666920014374	geckodriver	INFO	Listening on 127.0.0.1:51334
+1666920017367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileALpuD0"
+*** You are running in headless mode.
+1666920019189	Marionette	INFO	Marionette enabled
+1666920019202	Marionette	INFO	Listening on port 51349
+Read port: 51349
+WebDriver BiDi listening on ws://127.0.0.1:51335
+1666920019660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileALpuD0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51335/devtools/browser/ab82568d-bdb3-4574-92f0-d476f6bbf70a
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666920051365	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666920064113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666920074078	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666920146793	Marionette	INFO	Stopped listening on port 51349
+1666927079686	geckodriver	INFO	Listening on 127.0.0.1:61639
+1666927082695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile4RQjsW"
+*** You are running in headless mode.
+1666927084611	Marionette	INFO	Marionette enabled
+1666927084623	Marionette	INFO	Listening on port 61651
+Read port: 61651
+WebDriver BiDi listening on ws://127.0.0.1:61640
+1666927084895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile4RQjsW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61640/devtools/browser/88a0709c-df8c-4006-9fee-a1c643ac5cdc
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666927120484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666927126751	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666927173914	Marionette	INFO	Stopped listening on port 61651
+1666927278651	geckodriver	INFO	Listening on 127.0.0.1:62043
+1666927281642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileiFqQYW"
+*** You are running in headless mode.
+1666927282658	Marionette	INFO	Marionette enabled
+1666927282669	Marionette	INFO	Listening on port 62053
+Read port: 62053
+WebDriver BiDi listening on ws://127.0.0.1:62044
+1666927282893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileiFqQYW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62044/devtools/browser/b42ac7a0-38cd-48a0-9ce7-eaabdbe3562b
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666927314176	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666927325099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666927378650	Marionette	INFO	Stopped listening on port 62053
+1666927471826	geckodriver	INFO	Listening on 127.0.0.1:63874
+1666927474832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile59z8Wy"
+*** You are running in headless mode.
+1666927475910	Marionette	INFO	Marionette enabled
+1666927475926	Marionette	INFO	Listening on port 63884
+Read port: 63884
+WebDriver BiDi listening on ws://127.0.0.1:63875
+1666927476293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile59z8Wy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63875/devtools/browser/bba8216a-6087-4316-b908-9aefc3345200
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666927503174	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666927519196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666927565956	Marionette	INFO	Stopped listening on port 63884
+1666927672016	geckodriver	INFO	Listening on 127.0.0.1:64284
+1666927675028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile1eAyeU"
+*** You are running in headless mode.
+1666927675701	Marionette	INFO	Marionette enabled
+1666927675707	Marionette	INFO	Listening on port 64295
+WebDriver BiDi listening on ws://127.0.0.1:64285
+Read port: 64295
+1666927676051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile1eAyeU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64285/devtools/browser/37e4ac41-73ec-4feb-b577-9a9391c4cd8e
+1666927717790	geckodriver	INFO	Listening on 127.0.0.1:64599
+1666927720814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileWgrPaG"
+*** You are running in headless mode.
+1666927722824	Marionette	INFO	Marionette enabled
+1666927722845	Marionette	INFO	Listening on port 64609
+Read port: 64609
+WebDriver BiDi listening on ws://127.0.0.1:64600
+1666927723311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileWgrPaG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64600/devtools/browser/a84e34e1-adc8-439e-b1aa-b6e9e6b6b904
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+1666927750139	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666927765680	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1666927822423	Marionette	INFO	Stopped listening on port 64609
+[Parent 48580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666930852138	geckodriver	INFO	Listening on 127.0.0.1:50890
+1666930855124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileYM5dzJ"
+*** You are running in headless mode.
+1666930855976	Marionette	INFO	Marionette enabled
+1666930855988	Marionette	INFO	Listening on port 50900
+Read port: 50900
+WebDriver BiDi listening on ws://127.0.0.1:50891
+1666930856253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileYM5dzJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50891/devtools/browser/f44be6e4-27fa-456d-b159-c8161756acd1
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+1666930880041	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666930891244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666930939729	Marionette	INFO	Stopped listening on port 50900
+1666932258905	geckodriver	INFO	Listening on 127.0.0.1:51717
+1666932262106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileZI845N"
+*** You are running in headless mode.
+1666932264921	Marionette	INFO	Marionette enabled
+1666932264936	Marionette	INFO	Listening on port 51730
+Read port: 51730
+WebDriver BiDi listening on ws://127.0.0.1:51718
+1666932265575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileZI845N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51718/devtools/browser/8657d06f-e551-4fdd-8c9a-94f35552fdfe
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666932297847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932313241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932315457	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666932370619	Marionette	INFO	Stopped listening on port 51730
+1666932440524	geckodriver	INFO	Listening on 127.0.0.1:52170
+1666932443555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile9gLFwp"
+*** You are running in headless mode.
+1666932444372	Marionette	INFO	Marionette enabled
+1666932444382	Marionette	INFO	Listening on port 52182
+Read port: 52182
+WebDriver BiDi listening on ws://127.0.0.1:52171
+1666932444668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile9gLFwp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52171/devtools/browser/db21afee-38a7-4d05-b438-4515e4590834
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+1666932468974	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932483663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932532157	Marionette	INFO	Stopped listening on port 52182
+1666932575076	geckodriver	INFO	Listening on 127.0.0.1:52599
+1666932578097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile8iyzKX"
+*** You are running in headless mode.
+1666932579035	Marionette	INFO	Marionette enabled
+1666932579045	Marionette	INFO	Listening on port 52611
+Read port: 52611
+WebDriver BiDi listening on ws://127.0.0.1:52600
+1666932579330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile8iyzKX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52600/devtools/browser/9f7e2f90-697f-4643-a1ba-d805c5d59fbd
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666932604021	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932615863	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932664503	Marionette	INFO	Stopped listening on port 52611
+1666932798864	geckodriver	INFO	Listening on 127.0.0.1:53094
+1666932801890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilej3MgDA"
+*** You are running in headless mode.
+1666932802841	Marionette	INFO	Marionette enabled
+1666932802850	Marionette	INFO	Listening on port 53106
+Read port: 53106
+WebDriver BiDi listening on ws://127.0.0.1:53095
+1666932803092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilej3MgDA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53095/devtools/browser/8b917752-16ac-493e-8800-c7deac5b4845
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8tri93exdfpxhqu1rw08aalbx, line 19001: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3osxupemof832lr1ux2907mpt, line 2468: unreachable code after return statement
+1666932829916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932842507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666932892601	Marionette	INFO	Stopped listening on port 53106
+1666968285465	geckodriver	INFO	Listening on 127.0.0.1:58960
+1666968288528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile9s2OXE"
+*** You are running in headless mode.
+1666968289293	Marionette	INFO	Marionette enabled
+1666968289300	Marionette	INFO	Listening on port 58970
+Read port: 58970
+WebDriver BiDi listening on ws://127.0.0.1:58961
+1666968289467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofile9s2OXE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58961/devtools/browser/c9e55338-ffd9-4fc6-8ba2-de2d299b07b4
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/457vm2uqjupkw27gf52qewbn6, line 18994: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/abjzrdyq2hybj6gn3ubs3ju3o, line 2468: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/abjzrdyq2hybj6gn3ubs3ju3o, line 2468: unreachable code after return statement
+1666968309258	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666968321101	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666968359399	Marionette	INFO	Stopped listening on port 58970
+1666968971183	geckodriver	INFO	Listening on 127.0.0.1:54285
+1666968974237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileDtjVCP"
+*** You are running in headless mode.
+1666968974950	Marionette	INFO	Marionette enabled
+1666968974958	Marionette	INFO	Listening on port 54295
+Read port: 54295
+WebDriver BiDi listening on ws://127.0.0.1:54286
+1666968975168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileDtjVCP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54286/devtools/browser/589392d3-45f5-4105-a8a2-bccd90b3c87a
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/aero-v1/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ephj01hzc0284ye9n9crng34g, line 18999: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cd3dog5eutg48gnk2kfxqkxcj, line 2467: unreachable code after return statement
+1666968996737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666969006884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666969054161	Marionette	INFO	Stopped listening on port 54295
+1667261491672	geckodriver	INFO	Listening on 127.0.0.1:49312
+1667261494758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofiledWjSPo"
+*** You are running in headless mode.
+1667261495874	Marionette	INFO	Marionette enabled
+1667261495885	Marionette	INFO	Listening on port 49322
+Read port: 49322
+WebDriver BiDi listening on ws://127.0.0.1:49313
+1667261496100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofiledWjSPo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49313/devtools/browser/6b783faa-117e-40a5-a0a6-14e1ad59f85a
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1667261703334	geckodriver	INFO	Listening on 127.0.0.1:49671
+1667261706364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileBInqI6"
+*** You are running in headless mode.
+1667261707180	Marionette	INFO	Marionette enabled
+1667261707189	Marionette	INFO	Listening on port 49682
+Read port: 49682
+WebDriver BiDi listening on ws://127.0.0.1:49672
+1667261707412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileBInqI6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49672/devtools/browser/0552f066-9ea2-47b9-8d40-a0b172d9e19e
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1667261828869	geckodriver	INFO	Listening on 127.0.0.1:50067
+1667261831889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileSuCsNG"
+*** You are running in headless mode.
+1667261832548	Marionette	INFO	Marionette enabled
+1667261832555	Marionette	INFO	Listening on port 50077
+WebDriver BiDi listening on ws://127.0.0.1:50068
+Read port: 50077
+1667261832884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofileSuCsNG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50068/devtools/browser/6af35429-2fb5-4ff0-a98b-09026f02338c
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667267583598	geckodriver	INFO	Listening on 127.0.0.1:55648
+1667267586632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofiletW9AXK"
+*** You are running in headless mode.
+1667267587369	Marionette	INFO	Marionette enabled
+1667267587379	Marionette	INFO	Listening on port 55660
+Read port: 55660
+WebDriver BiDi listening on ws://127.0.0.1:55649
+1667267587577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofiletW9AXK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55649/devtools/browser/56f8938a-33d9-4e30-bf94-c3114d0e0666
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4nkmuzg9xsw0gjt2h0xqbwmx8, line 19039: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2u6enrfb6u0xop9v1plh92sd6, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2u6enrfb6u0xop9v1plh92sd6, line 2467: unreachable code after return statement
+1667267608163	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667267617886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1667267664601	Marionette	INFO	Stopped listening on port 55660
+1667267725933	geckodriver	INFO	Listening on 127.0.0.1:56084
+1667267728966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilernjG1l"
+*** You are running in headless mode.
+1667267729695	Marionette	INFO	Marionette enabled
+1667267729701	Marionette	INFO	Listening on port 56096
+Read port: 56096
+WebDriver BiDi listening on ws://127.0.0.1:56085
+1667267729889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jpfla\\AppData\\Local\\Temp\\rust_mozprofilernjG1l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56085/devtools/browser/fa940f68-ee15-45d5-a537-95877c51f756
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4nkmuzg9xsw0gjt2h0xqbwmx8, line 19039: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2u6enrfb6u0xop9v1plh92sd6, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4nkmuzg9xsw0gjt2h0xqbwmx8, line 19039: unreachable code after return statement
+1667267749997	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667267759168	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667267800037	Marionette	INFO	Stopped listening on port 56096
